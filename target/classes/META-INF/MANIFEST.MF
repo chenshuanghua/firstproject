@@ -1,10 +1,11 @@
 Manifest-Version: 1.0
 Implementation-Title: test2
-Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Version: 0.0.1
 Built-By: chensh
 Implementation-Vendor-Id: com.unicom.test
 Build-Jdk: 1.8.0_131
-Implementation-URL: http://maven.apache.org
+Implementation-URL: http://projects.spring.io/spring-boot/test2/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.unicom.test.test2.App
 
